@@ -1,5 +1,5 @@
 import React from 'react'
-import { IActivity } from '../../../app/modules/activity'
+import { IActivity } from '../../../app/models/activity'
 import { Card, Image, Button } from 'semantic-ui-react';
 
 
