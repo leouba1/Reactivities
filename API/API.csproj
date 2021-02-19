@@ -13,7 +13,7 @@
     <ProjectReference Include="..\Infrastructure\Infrastructure.csproj" />
   </ItemGroup>
   <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net5.0</TargetFramework>
     <UserSecretsId>4aaeed30-203a-4498-b27f-b5da0109bcda</UserSecretsId>
   </PropertyGroup>
 </Project>
